@@ -1,2 +1,1 @@
-# trip-takeover
-trip
+My Template
